@@ -7,6 +7,8 @@ System.out.println("added");
 	}
 public static void main(String[] args) {
 	System.out.println("harish");
+	System.out.println("fghjk");
+	System.out.println("rtyu");
 	
 }
 }
